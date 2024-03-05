@@ -1,4 +1,4 @@
-#Discord Bot Project
+# Discord Bot Project
 
 Discord bot that runs on Node.js
 
