@@ -12,3 +12,5 @@ npm init -y
 npm -i discord
 npm -i dotenv
 ```
+
+To deploy the bot you will need an `.env` file in your project directory with the bot token.

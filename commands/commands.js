@@ -16,7 +16,7 @@ export const COMMANDS = {
             .setName('repo')
             .setDescription('Replies with bot code repository'),
         execute: async interaction => {
-            await interaction.reply('Github repository can be found at https://github.com/ajdejesus/supreme-carnival-discord-bot');
+            await interaction.reply('https://github.com/ajdejesus/supreme-carnival-discord-bot');
         }
     },
     'log': {
