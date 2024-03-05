@@ -8,6 +8,7 @@ Required packages:
 
 Install them by running these commands in your terminal:
 ```bash
+npm init -y
 npm -i discord
 npm -i dotenv
 ```
