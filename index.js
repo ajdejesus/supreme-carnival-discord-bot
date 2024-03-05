@@ -1,6 +1,6 @@
-import { Client, Events, GatewayIntentBits, SlashCommandBuilder } from "discord.js";
-import { TOKEN } from "./env.js";
+import { Client, Events, GatewayIntentBits } from "discord.js";
 import { COMMANDS } from "./commands/commands.js";
+import { TOKEN } from "./constants.js";
 
 
 const client = new Client({
